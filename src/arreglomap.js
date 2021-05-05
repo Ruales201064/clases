@@ -21,5 +21,6 @@ const mascotas =[
 ];
 const edades= mascotas.map(x=> x.edad)
 console.log(edades)
+
 const resultado1 = suma(edades)
  console.log(resultado1/edades.length)

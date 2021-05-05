@@ -38,6 +38,12 @@
 // })
 // }
 //  getNombre(80);
+
+
+
+
+
+
 //  const getNombreAsync  = async (iduser)=>{
 //     try{
 //         // const resPost = await fetch(`https://jsonplaceholder.typicode.com/posts/${iduser}`)
